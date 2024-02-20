@@ -9,17 +9,19 @@ h2{
 }
 .header{
 	background-color: #011e29;
-	padding:1px;
+	padding:10px;
 	text-align:center
 }
 .latest-news-section{
 	background-color:white;
-	padding:1px;
-	width:50px
+	padding:25px;
+	width:200px
 }
 .pictorial-news-section{
 	background-color:white;
+	padding:50px;
 	width:500px;
-	padding:1px;
-	
+	text-align:center;
+	border-radius:25px
 }
+
